@@ -1,0 +1,6 @@
+Remy Viscaino09:44
+https://www.w3schools.com/python/python_mysql_select.asp
+Remy Viscaino12:16
+https://answers.microsoft.com/en-us/windows/forum/windows_10-update/windows-update-one-of-the-update-services-is-not/4ee9d03c-23f3-4cce-a31b-15f92375efbc#:~:text=One%20of%20the%20update%20services%20is%20not%20running%20properly%2C%20but,and%20then%20select%20Windows%20Update.%22
+Remy Viscaino12:42
+https://www.wampserver.com/

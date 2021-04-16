@@ -1,0 +1,86 @@
+body {
+	#background : url('E:/AI/jours/jour4/background.jpg') no-repeat center fixed;
+	background : url('E:/AI/jours/jour4/blason.jpg') repeat fixed;
+	
+	background-size: 25%;
+	
+	backgroung-size : cover;
+}
+.menu {
+	width: 100%;
+	margin: 10%;
+	
+}
+.conteneur .main{
+	width : 100%;
+}
+.menu a:hover {
+	background-color : blue;
+	opacity : 0.8;
+}
+.menu a {
+	text-decoration-line: none;
+	text-decoration-thickness: 10px;
+	text-shadow: white 0.1em 0.1em 0.2em;
+	opacity : 0.8;
+	color : white;
+	text-transform : uppercase;
+	text-font-size : 2%;
+	border : 2px dotted black;
+	border-radius : 2px;
+	text-align : center;
+	width : 100px;
+	padding : 10px;
+	margin : 5px;
+	border : 2px solid blue;
+	
+	float:left;
+	color : red;
+}
+.articleconteneur{
+	float: left;
+	background-color : white;
+	opacity : 0.9;
+}
+.article{
+	opacity : 1;
+	text-align : justify;
+	width : 39%;
+	color: blue; 
+	text-shadow: black 0.1em 0.1em 0.2em;
+	
+	margin : 2%;
+	padding: 2%;
+	border : 1px solid blue;
+	border-radius : 10px;
+}
+.article::before{
+		background-color : blue;
+	opacity : 0.5;
+}
+.titreconteneur {
+	background-color : white;
+}
+.titre{
+	opacity : 0.9;
+	background-color : #5050ff;
+	text-decoration : none;
+	position : fixed;
+	top : 0px;
+	left : 40%;
+	color : blue;
+	text-opacity : 0.7;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	border : 8px solid blue;
+	border-radius : 10px;
+	border-opacity : 0.5;
+	margin : 1%;
+	padding : 3%;
+	width = 80%;
+	text-align : center;
+}
+
+.parrouge {
+	color: white; text-shadow: black 0.1em 0.1em 0.2em
+	
+}
